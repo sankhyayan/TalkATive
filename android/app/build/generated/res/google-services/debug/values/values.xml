@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">579185916143-aod8v6qu5sj3cfcguf1kscs8tnh1946l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">579185916143</string>
+    <string name="google_api_key" translatable="false">AIzaSyAvykq1O_5zHVKEsbyzD0f8qXwakJ2C02s</string>
+    <string name="google_app_id" translatable="false">1:579185916143:android:d4762a3fd428519ac7c31a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAvykq1O_5zHVKEsbyzD0f8qXwakJ2C02s</string>
+    <string name="google_storage_bucket" translatable="false">skype-clone-d42ff.appspot.com</string>
+    <string name="project_id" translatable="false">skype-clone-d42ff</string>
+</resources>
