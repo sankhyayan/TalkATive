@@ -1,4 +1,4 @@
-# skype_clone
+# TalkATive
 
 A Skype Clone Flutter project
 
